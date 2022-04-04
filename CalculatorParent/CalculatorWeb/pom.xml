@@ -35,16 +35,14 @@
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
-		
+
 		<dependency>
-		<groupId>Calculator</groupId>
-		<artifactId>CalculatorService</artifactId>
-		<version>${project.version}</version>
-		
+			<groupId>Calculator</groupId>
+			<artifactId>CalculatorService</artifactId>
+			<version>${project.version}</version>
+
 		</dependency>
 	</dependencies>
-	
-	
 
 
 	<build>
