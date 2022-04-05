@@ -6,7 +6,7 @@
 <web-app>
  <servlet>
  	<servlet-name>Adding</servlet-name>
- 	<servlet-class>org.Servlets.AddServlet</servlet-class>
+ 	<servlet-class>org.Servlets.MathServlet</servlet-class>
  </servlet>
  
  <servlet-mapping>
